@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Top Banner Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=12141d&height=120&section=header&text=%20&theme=dark" width="100%" alt="Banner" />
+</p>
 
-<!--
-**jwesparcia/jwesparcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, it's Jhune Wally Esparcia
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Languages",
+  "items": ["Python", "JavaScript", "TypeScript", "C#", "Java", "PHP"]
+},
+{
+  "name": "Frameworks",
+  "items": ["React", "Bootstrap", "Node.js", "Django", "FastAPI", "TailwindCSS"]
+},
+{
+  "name": "Database",
+  "items": ["PostgreSQL", "MongoDB", "MySQL"]
+}
